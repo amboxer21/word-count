@@ -1,6 +1,11 @@
 # word-count
 
-OUTPUT:
+**USAGE:**
+```
+anthony@ghost ~ $ python word_count.py --file '/home/anthony/Documents/TXT/WhatsApp/madelin.txt' --count 100
+```
+
+**OUTPUT:**
 
 ```python
 anthony@ghost ~/Documents/Python/word-count $ python word_count.py --file '/home/anthony/Documents/TXT/WhatsApp/madelin.txt' --count 100
